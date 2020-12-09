@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "File not found: C:\\Users\\rober\\IdeaProjects\\qa_guru_9_homework\\src\\test\\resources\\1.png",
+      "children" : [ {
+        "name" : "Successful fill registration form",
+        "uid" : "9afe9c56a5149203",
+        "parentUid" : "899d37075d715c94812e1caa6c4f9ab5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607515094856,
+          "stop" : 1607515114074,
+          "duration" : 19218
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "899d37075d715c94812e1caa6c4f9ab5"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

@@ -1,0 +1,298 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Robert",
+    "children" : [ {
+      "name" : "12492@Robert.Test worker(13)",
+      "children" : [ {
+        "name" : "Successful fill registration form",
+        "uid" : "4280b936aebd485b",
+        "parentUid" : "7f41d64ff7ed5c1678d03dd03ff76591",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607435093649,
+          "stop" : 1607435097418,
+          "duration" : 3769
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7f41d64ff7ed5c1678d03dd03ff76591"
+    }, {
+      "name" : "9460@Robert.Test worker(13)",
+      "children" : [ {
+        "name" : "yandexTest()",
+        "uid" : "1e3b6bc9035baf7b",
+        "parentUid" : "6db550524bdae2e29dac5f9f51866c7d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607510500547,
+          "stop" : 1607510570729,
+          "duration" : 70182
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6db550524bdae2e29dac5f9f51866c7d"
+    }, {
+      "name" : "14800@Robert.Test worker(13)",
+      "children" : [ {
+        "name" : "yandexTest()",
+        "uid" : "ac2ac9bcd9bbdd36",
+        "parentUid" : "db86458b7b02dc290f866ac8235baa6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607514793675,
+          "stop" : 1607514805934,
+          "duration" : 12259
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "db86458b7b02dc290f866ac8235baa6a"
+    }, {
+      "name" : "25060@Robert.Test worker(13)",
+      "children" : [ {
+        "name" : "yandexTest()",
+        "uid" : "bd9f583f9e147c16",
+        "parentUid" : "6593c59cdfc892ee500f2ae9ea407aaa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607510629818,
+          "stop" : 1607510640818,
+          "duration" : 11000
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6593c59cdfc892ee500f2ae9ea407aaa"
+    }, {
+      "name" : "9636@Robert.Test worker(13)",
+      "children" : [ {
+        "name" : "yandexTest()",
+        "uid" : "d2629cde5522b3bd",
+        "parentUid" : "4c2e986f3de2abb8fd99893846336513",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607516139902,
+          "stop" : 1607516150323,
+          "duration" : 10421
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4c2e986f3de2abb8fd99893846336513"
+    }, {
+      "name" : "11068@Robert.Test worker(13)",
+      "children" : [ {
+        "name" : "yandexTest()",
+        "uid" : "781274eb64f35cc8",
+        "parentUid" : "c726c67a26fde224a0783ce13448ec6c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607510197975,
+          "stop" : 1607510271671,
+          "duration" : 73696
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c726c67a26fde224a0783ce13448ec6c"
+    }, {
+      "name" : "17404@Robert.Test worker(13)",
+      "children" : [ {
+        "name" : "yandexTest()",
+        "uid" : "3617d0d2fb012706",
+        "parentUid" : "dab5b3a047900557bf84b2e4876958af",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607516724419,
+          "stop" : 1607516735681,
+          "duration" : 11262
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "dab5b3a047900557bf84b2e4876958af"
+    }, {
+      "name" : "6488@Robert.Test worker(13)",
+      "children" : [ {
+        "name" : "yandexTest()",
+        "uid" : "80b0b417306cdca9",
+        "parentUid" : "cc5190110940f5ad44307a36feac2412",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607510607792,
+          "stop" : 1607510618623,
+          "duration" : 10831
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cc5190110940f5ad44307a36feac2412"
+    }, {
+      "name" : "728@Robert.Test worker(13)",
+      "children" : [ {
+        "name" : "Successful fill registration form",
+        "uid" : "9afe9c56a5149203",
+        "parentUid" : "3c2a8fd1198bc377a61c49fe2f13cc9c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607515094856,
+          "stop" : 1607515114074,
+          "duration" : 19218
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3c2a8fd1198bc377a61c49fe2f13cc9c"
+    }, {
+      "name" : "3640@Robert.Test worker(13)",
+      "children" : [ {
+        "name" : "yandexTest()",
+        "uid" : "4d239d738bfbed12",
+        "parentUid" : "338a7e835b45a9f728a41126e51b5302",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607510321168,
+          "stop" : 1607510394336,
+          "duration" : 73168
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "338a7e835b45a9f728a41126e51b5302"
+    }, {
+      "name" : "18952@Robert.Test worker(13)",
+      "children" : [ {
+        "name" : "yandexTest()",
+        "uid" : "c318a9bf84b6d50a",
+        "parentUid" : "4c706ec02e23432a37fbe46a8f29894d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607515130416,
+          "stop" : 1607515140150,
+          "duration" : 9734
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4c706ec02e23432a37fbe46a8f29894d"
+    }, {
+      "name" : "13784@Robert.Test worker(13)",
+      "children" : [ {
+        "name" : "yandexTest()",
+        "uid" : "27b6b3eb4791237a",
+        "parentUid" : "3706f5ba370e3ad79a8d0b34bf81cee8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607517032975,
+          "stop" : 1607517042932,
+          "duration" : 9957
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3706f5ba370e3ad79a8d0b34bf81cee8"
+    }, {
+      "name" : "9008@Robert.Test worker(13)",
+      "children" : [ {
+        "name" : "yandexTest()",
+        "uid" : "7f563536dead9ed8",
+        "parentUid" : "c2405268291e342fd6472c3773a3f77f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607514707233,
+          "stop" : 1607514780273,
+          "duration" : 73040
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c2405268291e342fd6472c3773a3f77f"
+    }, {
+      "name" : "21876@Robert.Test worker(13)",
+      "children" : [ {
+        "name" : "yandexTest()",
+        "uid" : "996c211e873c7c7d",
+        "parentUid" : "bae9c06419375d28fb703cf0762dd673",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607436262829,
+          "stop" : 1607436275084,
+          "duration" : 12255
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bae9c06419375d28fb703cf0762dd673"
+    }, {
+      "name" : "17316@Robert.Test worker(13)",
+      "children" : [ {
+        "name" : "yandexTest()",
+        "uid" : "ddb9b4ed39b63f32",
+        "parentUid" : "fce70460781de1b4f0586749084ea30e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607443141074,
+          "stop" : 1607443158360,
+          "duration" : 17286
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fce70460781de1b4f0586749084ea30e"
+    }, {
+      "name" : "10664@Robert.Test worker(13)",
+      "children" : [ {
+        "name" : "yandexTest()",
+        "uid" : "b47b74fc7de5c4be",
+        "parentUid" : "6323848696b9f30ce02f198a65da6d84",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607435323609,
+          "stop" : 1607435337830,
+          "duration" : 14221
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6323848696b9f30ce02f198a65da6d84"
+    }, {
+      "name" : "7892@Robert.Test worker(13)",
+      "children" : [ {
+        "name" : "yandexTest()",
+        "uid" : "5cc234edd9f56175",
+        "parentUid" : "29903b66eeb8da7ae242706c9fa3150e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1607515209068,
+          "stop" : 1607515228070,
+          "duration" : 19002
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "29903b66eeb8da7ae242706c9fa3150e"
+    } ],
+    "uid" : "c8ccfe4aad8645f7f9d6349371308dde"
+  } ]
+}

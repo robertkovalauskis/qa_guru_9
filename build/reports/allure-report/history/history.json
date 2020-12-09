@@ -1,0 +1,41 @@
+{
+  "7186f4e40bc5edf636eb20d987b7ec3b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "27b6b3eb4791237a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607517032975,
+        "stop" : 1607517042932,
+        "duration" : 9957
+      }
+    } ]
+  },
+  "ec65c83f037a5dfbcec3788450481026" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9afe9c56a5149203",
+      "status" : "broken",
+      "statusDetails" : "File not found: C:\\Users\\rober\\IdeaProjects\\qa_guru_9_homework\\src\\test\\resources\\1.png",
+      "time" : {
+        "start" : 1607515094856,
+        "stop" : 1607515114074,
+        "duration" : 19218
+      }
+    } ]
+  }
+}

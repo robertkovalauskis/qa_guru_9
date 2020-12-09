@@ -1,0 +1,43 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "tests",
+    "children" : [ {
+      "name" : "StudentRegistrationFormTests",
+      "children" : [ {
+        "name" : "successfulFillFormTest",
+        "uid" : "9afe9c56a5149203",
+        "parentUid" : "fb5dd0cc3c772279a809ed7c6ae8330f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607515094856,
+          "stop" : 1607515114074,
+          "duration" : 19218
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fb5dd0cc3c772279a809ed7c6ae8330f"
+    }, {
+      "name" : "YandexTest",
+      "children" : [ {
+        "name" : "yandexTest",
+        "uid" : "27b6b3eb4791237a",
+        "parentUid" : "ac1d65a70f9630867f36aa91dc5df220",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607517032975,
+          "stop" : 1607517042932,
+          "duration" : 9957
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ac1d65a70f9630867f36aa91dc5df220"
+    } ],
+    "uid" : "bf49149a3821e34f7608bb6885d52868"
+  } ]
+}

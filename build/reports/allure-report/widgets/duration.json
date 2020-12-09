@@ -1,0 +1,21 @@
+[ {
+  "uid" : "27b6b3eb4791237a",
+  "name" : "yandexTest()",
+  "time" : {
+    "start" : 1607517032975,
+    "stop" : 1607517042932,
+    "duration" : 9957
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9afe9c56a5149203",
+  "name" : "Successful fill registration form",
+  "time" : {
+    "start" : 1607515094856,
+    "stop" : 1607515114074,
+    "duration" : 19218
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

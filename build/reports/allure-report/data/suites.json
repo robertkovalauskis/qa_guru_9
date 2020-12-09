@@ -1,0 +1,39 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "tests.StudentRegistrationFormTests",
+    "children" : [ {
+      "name" : "Successful fill registration form",
+      "uid" : "9afe9c56a5149203",
+      "parentUid" : "774619cf358a4cb3aeba1bc0303ba3f6",
+      "status" : "broken",
+      "time" : {
+        "start" : 1607515094856,
+        "stop" : 1607515114074,
+        "duration" : 19218
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "774619cf358a4cb3aeba1bc0303ba3f6"
+  }, {
+    "name" : "tests.YandexTest",
+    "children" : [ {
+      "name" : "yandexTest()",
+      "uid" : "27b6b3eb4791237a",
+      "parentUid" : "69ac30350fa272c455cf858111382765",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607517032975,
+        "stop" : 1607517042932,
+        "duration" : 9957
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "69ac30350fa272c455cf858111382765"
+  } ]
+}

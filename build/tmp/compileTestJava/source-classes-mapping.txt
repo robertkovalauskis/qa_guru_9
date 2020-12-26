@@ -1,6 +1,6 @@
 helpers/AttachmentsHelper.java
  helpers.AttachmentsHelper
-tests/YandexTest.java
- tests.YandexTest
 tests/TestBase.java
  tests.TestBase
+tests/YandexTest.java
+ tests.YandexTest
